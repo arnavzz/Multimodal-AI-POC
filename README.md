@@ -1,7 +1,7 @@
 # 🎨 Multimodal AI Orchestration POC
 *An end-to-end demonstration of agentic multimodal AI using open-source tools and free infrastructure*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Multimodal-AI-POC/blob/main/POC_Multimodal_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arnavzz/Multimodal-AI-POC/blob/main/POC_Multimodal_Demo.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
