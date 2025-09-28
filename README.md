@@ -1,7 +1,11 @@
 # 🎨 Multimodal AI Orchestration POC
 *An end-to-end demonstration of agentic multimodal AI using open-source tools and free infrastructure*
 
+<<<<<<< HEAD
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Multimodal-AI-POC/blob/main/POC_Multimodal_Demo.ipynb)
+=======
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arnavzz/Multimodal-AI-POC/blob/main/POC_Multimodal_Demo.ipynb)
+>>>>>>> 623634e14b50c1e5e2715ad6b10be3ffd3ab8e13
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
@@ -218,13 +222,21 @@ Our multimodal AI system demonstrates exceptional capability in generating high-
 #### Example 1: Cinematic Medieval Cityscape
 **Prompt**: *"An expansive panoramic view of King's Landing, the dazzling capital of the Seven Kingdoms from Game of Thrones, captured in exquisite cinematic detail. The vast city sprawls across sunlit hills, its labyrinth of terracotta rooftops glowing under the warm golden afternoon light. Narrow cobblestone streets wind between bustling markets filled with colorful stalls, townsfolk in medieval garb, and horse-drawn carts. The mighty Red Keep dominates the skyline, its crimson stone towers, soaring battlements, and sharp spires casting long shadows across the city, exuding royal authority. Just beyond it rises the Great Sept of Baelor, its seven massive domes and ornate white marble façade gleaming like a beacon of faith. The city's fortified stone walls snake around the perimeter, punctuated by imposing watchtowers and massive gates, while beyond them the glittering Blackwater Bay stretches into the horizon. The harbor teems with wooden galleons, trade ships, and sleek warships, their sails catching the sea breeze as dockworkers unload crates of goods. Smoke drifts gently from hundreds of chimneys, and distant bells echo faintly, blending with the noise of the vibrant metropolis. Surrounding hillsides are dotted with patches of green farmland and olive groves, while the far-off waters shimmer in brilliant shades of sapphire and emerald. Seabirds wheel above the crashing surf, and the sky glows with streaks of amber, orange, and pale blue, creating a breathtaking contrast with the city's earthy tones. The atmosphere is alive, majestic yet dangerous, foreshadowing the great power struggles within. Rendered in ultra-detailed, high-resolution fantasy concept art, with sweeping cinematic composition, rich textures, and dramatic lighting worthy of an epic saga."*
 
+<<<<<<< HEAD
 ![Medieval Coastal City](outputs/images/Kings%20Landing.png)
+=======
+![Medieval Coastal City](https://i.imgur.com/example1.jpg)
+>>>>>>> 623634e14b50c1e5e2715ad6b10be3ffd3ab8e13
 *Generated Result: A stunning panoramic view showcasing the AI's ability to interpret complex architectural descriptions, lighting conditions, and atmospheric details with remarkable accuracy.*
 
 #### Example 2: Sci-Fi Archaeological Discovery
 **Prompt**: *"Create a complete story experience with image, audio, and video about a space explorer discovering alien ruins"*
 
+<<<<<<< HEAD
 ![Alien Ruins Discovery](outputs/images/alien%20ruins.png)
+=======
+![Alien Ruins Discovery](https://i.imgur.com/example2.jpg)
+>>>>>>> 623634e14b50c1e5e2715ad6b10be3ffd3ab8e13
 *Generated Result: A mysterious alien artifact in a desolate landscape, demonstrating the system's capability to visualize science fiction concepts and create compelling narrative scenes.*
 
 #### Key Visual Generation Features Demonstrated:
@@ -251,7 +263,11 @@ The system excels with varying levels of prompt complexity:
 
 The system automatically organizes all generated content in a structured directory system within the Colab environment:
 
+<<<<<<< HEAD
 ![Output Directory Structure](outputs/images/output%20dispaly.png)
+=======
+![Output Directory Structure](https://i.imgur.com/output-structure.jpg)
+>>>>>>> 623634e14b50c1e5e2715ad6b10be3ffd3ab8e13
 
 #### Directory Structure Explanation:
 ```
