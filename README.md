@@ -1,11 +1,9 @@
 # 🎨 Multimodal AI Orchestration POC
 *An end-to-end demonstration of agentic multimodal AI using open-source tools and free infrastructure*
 
-<<<<<<< HEAD
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Multimodal-AI-POC/blob/main/POC_Multimodal_Demo.ipynb)
-=======
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arnavzz/Multimodal-AI-POC/blob/main/POC_Multimodal_Demo.ipynb)
->>>>>>> 623634e14b50c1e5e2715ad6b10be3ffd3ab8e13
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
@@ -261,7 +259,7 @@ The system automatically organizes all generated content in a structured directo
 
 
 ![Output Directory Structure](outputs/images/output%20dispaly.png)
->>>>>>> 623634e14b50c1e5e2715ad6b10be3ffd3ab8e13
+
 
 #### Directory Structure Explanation:
 ```
@@ -318,7 +316,7 @@ This organized structure ensures that users can easily locate, review, and downl
 | **Video** | Story visualization (30s, 720p) | Zeroscope v2 | 2m 15s |
 
 #### Agent Decision Tree Example
-```mermaid
+```
 graph TD
     A[User Input: "Cyberpunk city story"] --> B{Analyze Intent}
     B --> C[Generate Story Outline]
